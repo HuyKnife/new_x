@@ -1,5 +1,5 @@
 /**************************************************
-*	16050311
+*	Classname 16050311
 *
 *	Version information stupid_code ver 2.0
 *
